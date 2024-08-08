@@ -19,8 +19,8 @@ This Node.js script allows you to quickly make all your private GitHub repositor
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/innocentemutabazi/make-all-your-repos-public.git
+   cd make-all-your-repos-public
    ```
 
 2. **Install dependencies:**
